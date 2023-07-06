@@ -1,4 +1,4 @@
-# osandalelum.github.io
+# osandal.github.io
 
 This is My Personal portfolio
 HTML
